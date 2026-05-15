@@ -1,6 +1,3 @@
-
-
-
 # 📧 Email Spam Classification Using NLP and Machine Learning
 
 > A machine learning pipeline for automated spam detection, built with SVM and TF-IDF vectorisation — trained on the SpamAssassin Public Corpus.
